@@ -14,8 +14,10 @@
 ![macOS](https://img.shields.io/badge/-macOS-black?logo=apple&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-linux-dd4814?logo=linux&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/-c++-044F88?logo=c%2B%2B&style=for-the-badge)
-![C Sharp](https://img.shields.io/badge/-CSharp-black?logo=C+Sharp&style=for-the-badge)
+![C Sharp](https://img.shields.io/badge/-C_Sharp-black?logo=C+Sharp&style=for-the-badge)
 ![Pyton](https://img.shields.io/badge/-python-306998?logo=python&logoColor=FFD43B&style=for-the-badge)
+
+
 
 
 
