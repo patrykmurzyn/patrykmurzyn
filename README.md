@@ -21,8 +21,6 @@
 ## 🌱 I'm currently learning: 
 
 ![Three.js](https://img.shields.io/badge/-Three.js-white?logo=Three.js&logoColor=black&style=for-the-badge)
-![Three.js](https://img.shields.io/static/v1?style=for-the-badge&message=Three.js&color=000000&logo=Three.js&logoColor=FFFFFF&label=)
-
 
 
 <p align="center">
