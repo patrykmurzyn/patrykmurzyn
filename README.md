@@ -4,8 +4,6 @@
   I live in Poland and study at <b>AGH</b>
 </p>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=patrykmurzyn.visitor-badge)
-
 <p align="center">
 <img src="https://visitor-badge.glitch.me/badge?page_id=patrykmurzyn.visitor-badge" />
 </p>
