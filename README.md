@@ -1,7 +1,7 @@
 <h1 align='center'> Hello World </h1>
 
 <p align='center'>
-  I live in Poland and study at <b>AHG</b>
+  I live in Poland and study at <b>AGH</b>
 </p>
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=patrykmurzyn.visitor-badge)
