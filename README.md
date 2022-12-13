@@ -1,4 +1,4 @@
-<h1 align='center'> Hello World </h1>
+<h1 align='center'> Hello World! </h1>
 
 <p align='center'>
   I live in Poland and study at <b>AGH</b>
@@ -9,26 +9,25 @@
 </p>
 
 ## 🔧 Technologies & Tools:
-
-![Windows](https://img.shields.io/badge/-windows-0078d4?logo=microsoft&logoColor=white&style=for-the-badge)
-![macOS](https://img.shields.io/badge/-macOS-black?logo=apple&logoColor=white&style=for-the-badge)
-![Linux](https://img.shields.io/badge/-linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
-![C++](https://img.shields.io/badge/-c++-044F88?logo=c%2B%2B&style=for-the-badge)
-![C Sharp](https://img.shields.io/badge/-C_Sharp-684D95?logo=C+Sharp&style=for-the-badge)
-![Pyton](https://img.shields.io/badge/-python-306998?logo=python&logoColor=FFD43B&style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-ED1D25?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-f06529?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)
-![Latex](https://img.shields.io/badge/Latex-white?style=for-the-badge&logo=latex&logoColor=387F80)
-![Unity](https://img.shields.io/badge/Unity-white?style=for-the-badge&logo=unity&logoColor=black)
-
+<!--- https://badges.pages.dev/ --->
+![Windows Badge](https://img.shields.io/badge/-windows-0078d4?logo=microsoft&logoColor=white&style=for-the-badge)
+![macOS Badge](https://img.shields.io/badge/-macOS-black?logo=apple&logoColor=white&style=for-the-badge)
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)
+![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=for-the-badge)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+![Java Badge](https://img.shields.io/badge/Java-ED1D25?style=for-the-badge&logo=java&logoColor=white)
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+![LaTeX Badge](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff&style=for-the-badge)
+![Unity Badge](https://img.shields.io/badge/Unity-FFF?logo=unity&logoColor=000&style=for-the-badge)
 
 ## 🌱 I'm currently learning: 
 
-![Three.js](https://img.shields.io/badge/-Three.js-white?logo=Three.js&logoColor=black&style=for-the-badge)
-![Go](https://img.shields.io/badge/-Go-29BEB0?logo=go&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-white?logo=docker&logoColor=0db7ed&style=for-the-badge)
+![Three.js Badge](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff&style=for-the-badge)
+![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge)
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
 
 ## 📈 GitHub Stats
 
