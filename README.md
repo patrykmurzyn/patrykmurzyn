@@ -9,7 +9,7 @@
 </p>
 
 ## 🔧 Technologies & Tools:
-<!--- https://badges.pages.dev/ --->
+
 ![Windows Badge](https://img.shields.io/badge/-windows-0078d4?logo=microsoft&logoColor=white&style=for-the-badge)
 ![macOS Badge](https://img.shields.io/badge/-macOS-black?logo=apple&logoColor=white&style=for-the-badge)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
@@ -26,6 +26,7 @@
 ## 🌱 I'm currently learning: 
 
 ![Three.js Badge](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff&style=for-the-badge)
+![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=fff&style=for-the-badge)
 ![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge)
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
 
