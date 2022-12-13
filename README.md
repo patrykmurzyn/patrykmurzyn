@@ -20,11 +20,14 @@
 ![HTML5](https://img.shields.io/badge/HTML5-f06529?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)
+![Unity](https://img.shields.io/badge/Unity-white?style=for-the-badge&logo=unity&logoColor=black)
+
 
 ## 🌱 I'm currently learning: 
 
 ![Three.js](https://img.shields.io/badge/-Three.js-white?logo=Three.js&logoColor=black&style=for-the-badge)
 ![Go](https://img.shields.io/badge/-Go-29BEB0?logo=go&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-white?logo=docker&logoColor=0db7ed&style=for-the-badge)
 
 ## 📈 GitHub Stats
 
