@@ -25,6 +25,7 @@
 
 ![Three.js](https://img.shields.io/badge/-Three.js-white?logo=Three.js&logoColor=black&style=for-the-badge)
 
+## 📈 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrykmurzyn&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
