@@ -29,7 +29,3 @@
 ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge)
 ![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge)
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
-
-## 📈 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrykmurzyn&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
