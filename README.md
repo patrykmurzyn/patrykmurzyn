@@ -1,13 +1,5 @@
 <h1 align='center'> Hello World! </h1>
 
-<p align='center'>
-  I live in Poland and study at <b>AGH</b>
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=patrykmurzyn.visitor-badge" />
-</p>
-
 ## 🔧 Technologies & Tools:
 
 ![Windows Badge](https://img.shields.io/badge/-windows-0078d4?logo=microsoft&logoColor=white&style=for-the-badge)
