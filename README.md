@@ -15,7 +15,7 @@
 I build AI-driven applications and LLM-powered systems — agentic workflows, RAG pipelines, and autonomous products that solve real business problems, not demos.
 
 - 🚀 Founder & AI Developer at **[Percept Mind](https://perceptmind.com)** - pragmatic AI solutions, measurable results
-- 🤖 Fullstack AI Developer at **Pirxey**
+- 🤖 Fullstack AI Developer at **[Pirxey](https://www.pirxey.com)**
 - 🧠 Currently deep in **MCP**, **multi-agent systems**, **RAG architectures** & **on-device LLMs**
 - 🎮 Off-hours: VR, crypto markets, and losing chess to AI
 
@@ -56,12 +56,3 @@ I build AI-driven applications and LLM-powered systems — agentic workflows, RA
 ![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=fff&style=flat-square)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat-square)
 ![Unity](https://img.shields.io/badge/Unity-000?logo=unity&logoColor=fff&style=flat-square)
-
----
-
-### GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=patrykmurzyn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrykmurzyn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="165" />
-</p>
